@@ -11,10 +11,10 @@ This is the MD Saymon Islam, A junior full stack developer <br><br>
 
 :page_with_curl: I'm currently learning:
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="30" height="30" vertical-align="middle" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="30" height="30" vertical-align="center" /> 
   <b>Next.js</b> 
   <br><br>
-  <img src="https://www.cursor.com/assets/images/logo.svg" alt="Cursor AI" width="30" height="30" vertical-align="middle" /> 
+  <img src="https://www.cursor.com/assets/images/logo.svg" alt="Cursor AI" width="30" height="30" vertical-align="center" /> 
   <b>AI-Assisted Full Stack Development</b>
 </p>
 
