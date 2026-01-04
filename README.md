@@ -39,5 +39,6 @@ This is the MD Saymon Islam, A junior full stack developer <br><br>
 
 ## Let's Connect :handshake:
 
-<a href="www.linkedin.com/in/saymon-islam-885365204"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
+<a href=(www.linkedin.com/in/saymon-islam-885365204)><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
+
 
