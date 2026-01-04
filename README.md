@@ -21,20 +21,21 @@ This is the MD Saymon Islam, A junior full stack developer <br><br>
 
 ## :computer: Languages and Tools: 
 
+
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
+<img src="https://i.ibb.co.com/KpK02RGX/HTML.png"/>
+<img src="https://i.ibb.co.com/2YjCkzpD/css.png"/>
+<img src="https://i.ibb.co.com/TM1mWsSz/Java-Script.png"/>
+<img src="https://i.ibb.co.com/gbkQkJMP/c.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://i.ibb.co.com/YFmFx1Ry/react.png"/>
+<img src="https://i.ibb.co.com/hJq3ZCcQ/tailwind.png"/>
+<img src="https://i.ibb.co.com/vxRfyvZN/firebase.png"/>
+<img src="https://i.ibb.co.com/xtzHL9m0/node.png"/>
+<img src="https://i.ibb.co.com/G4PRR9y8/express.png"/>
+<img src="https://i.ibb.co.com/Rp6TBq40/mongo.png"/>
 </p><br/>
 
 ## Let's Connect :handshake:
