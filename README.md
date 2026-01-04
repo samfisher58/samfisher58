@@ -49,5 +49,5 @@ This is the MD Saymon Islam, A junior full stack developer <br><br>
   <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
   <h3 align="center">Github Streak Stats</h3>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samfisher58&theme=dark)](https://git.io/streak-stats)
+(https://streak-stats.demolab.com/?user=samfisher58&theme=dark)](https://git.io/streak-stats)
 
