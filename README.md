@@ -3,7 +3,7 @@
 </p>
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> <br>
 This is the MD Saymon Islam, A junior full stack developer <br><br>
-- 🔭 &nbsp;Built full-stack web applications using MERN stack (MongoDB, Express.js, React, Node.js :wink:<br>
+- 🔭 &nbsp;Built full-stack web applications using MERN stack (MongoDB, Express.js, React, Node.js<br>
 - 🌱 &nbsp;Strong understanding of REST APIs, CRUD operations, and backend integration <br>
 - 💬 &nbsp;Focused on clean code, reusable components, and responsive UI design <br>
 - 👨‍💻 &nbsp;Experienced with Tailwind CSS for modern, scalable styling <br>
@@ -17,4 +17,27 @@ This is the MD Saymon Islam, A junior full stack developer <br><br>
   <img src="https://www.cursor.com/assets/images/logo.svg" alt="Cursor AI" width="25" vertical-align="center" /> 
   <b>AI-Assisted Full Stack Development</b>
 </p>
+<br>
+
+## :computer: Languages and Tools: 
+
+<br>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+</p><br/>
+
+## Let's Connect :handshake:
+
+<a href="www.linkedin.com/in/saymon-islam-885365204"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
 
